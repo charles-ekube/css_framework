@@ -1,0 +1,759 @@
+/* padding classes for all round with increments of 0.125rem (2px) */
+.p-2 {
+  padding: 0.125rem;
+}
+.p-4 {
+  padding: 0.25rem;
+}
+.p-6 {
+  padding: 0.375rem;
+}
+.p-8 {
+  padding: 0.5rem;
+}
+.p-10 {
+  padding: 0.625rem;
+}
+.p-12 {
+  padding: 0.75rem;
+}
+.p-14 {
+  padding: 0.875rem;
+}
+.p-16 {
+  padding: 1rem;
+}
+.p-18 {
+  padding: 1.125rem;
+}
+.p-20 {
+  padding: 1.25rem;
+}
+.p-22 {
+  padding: 1.375rem;
+}
+.p-24 {
+  padding: 1.5rem;
+}
+.p-26 {
+  padding: 1.625rem;
+}
+.p-28 {
+  padding: 1.75rem;
+}
+.p-30 {
+  padding: 1.875rem;
+}
+.p-32 {
+  padding: 2rem;
+}
+.p-34 {
+  padding: 2.125rem;
+}
+.p-36 {
+  padding: 2.25rem;
+}
+.p-38 {
+  padding: 2.375rem;
+}
+.p-40 {
+  padding: 2.5rem;
+}
+.p-42 {
+  padding: 2.625rem;
+}
+.p-44 {
+  padding: 2.75rem;
+}
+.p-46 {
+  padding: 2.875rem;
+}
+.p-48 {
+  padding: 3rem;
+}
+.p-50 {
+  padding: 3.125rem;
+}
+.p-52 {
+  padding: 3.25rem;
+}
+.p-54 {
+  padding: 3.375rem;
+}
+.p-56 {
+  padding: 3.5rem;
+}
+.p-58 {
+  padding: 3.625rem;
+}
+.p-60 {
+  padding: 3.75rem;
+}
+.p-62 {
+  padding: 3.875rem;
+}
+.p-64 {
+  padding: 4rem;
+}
+.p-66 {
+  padding: 4.125rem;
+}
+.p-68 {
+  padding: 4.25rem;
+}
+.p-70 {
+  padding: 4.375rem;
+}
+.p-72 {
+  padding: 4.5rem;
+}
+.p-74 {
+  padding: 4.625rem;
+}
+.p-76 {
+  padding: 4.75rem;
+}
+.p-78 {
+  padding: 4.875rem;
+}
+.p-80 {
+  padding: 5rem;
+}
+.p-82 {
+  padding: 5.125rem;
+}
+.p-84 {
+  padding: 5.25rem;
+}
+.p-86 {
+  padding: 5.375rem;
+}
+.p-88 {
+  padding: 5.5rem;
+}
+.p-90 {
+  padding: 5.625rem;
+}
+.p-92 {
+  padding: 5.75rem;
+}
+.p-94 {
+  padding: 5.875rem;
+}
+.p-96 {
+  padding: 6rem;
+}
+.p-98 {
+  padding: 6.125rem;
+}
+.p-100 {
+  padding: 6.25rem;
+}
+
+/* padding Left classes with increments of 0.125rem (2px) */
+.pl-2 {
+  padding: 0.125rem;
+}
+.pl-4 {
+  padding: 0.25rem;
+}
+.pl-6 {
+  padding: 0.375rem;
+}
+.pl-8 {
+  padding: 0.5rem;
+}
+.pl-10 {
+  padding: 0.625rem;
+}
+.pl-12 {
+  padding: 0.75rem;
+}
+.pl-14 {
+  padding: 0.875rem;
+}
+.pl-16 {
+  padding: 1rem;
+}
+.pl-18 {
+  padding: 1.125rem;
+}
+.pl-20 {
+  padding: 1.25rem;
+}
+.pl-22 {
+  padding: 1.375rem;
+}
+.pl-24 {
+  padding: 1.5rem;
+}
+.pl-26 {
+  padding: 1.625rem;
+}
+.pl-28 {
+  padding: 1.75rem;
+}
+.pl-30 {
+  padding: 1.875rem;
+}
+.pl-32 {
+  padding: 2rem;
+}
+.pl-34 {
+  padding: 2.125rem;
+}
+.pl-36 {
+  padding: 2.25rem;
+}
+.pl-38 {
+  padding: 2.375rem;
+}
+.pl-40 {
+  padding: 2.5rem;
+}
+.pl-42 {
+  padding: 2.625rem;
+}
+.pl-44 {
+  padding: 2.75rem;
+}
+.pl-46 {
+  padding: 2.875rem;
+}
+.pl-48 {
+  padding: 3rem;
+}
+.pl-50 {
+  padding: 3.125rem;
+}
+.pl-52 {
+  padding: 3.25rem;
+}
+.pl-54 {
+  padding: 3.375rem;
+}
+.pl-56 {
+  padding: 3.5rem;
+}
+.pl-58 {
+  padding: 3.625rem;
+}
+.pl-60 {
+  padding: 3.75rem;
+}
+.pl-62 {
+  padding: 3.875rem;
+}
+.pl-64 {
+  padding: 4rem;
+}
+.pl-66 {
+  padding: 4.125rem;
+}
+.pl-68 {
+  padding: 4.25rem;
+}
+.pl-70 {
+  padding: 4.375rem;
+}
+.pl-72 {
+  padding: 4.5rem;
+}
+.pl-74 {
+  padding: 4.625rem;
+}
+.pl-76 {
+  padding: 4.75rem;
+}
+.pl-78 {
+  padding: 4.875rem;
+}
+.pl-80 {
+  padding: 5rem;
+}
+.pl-82 {
+  padding: 5.125rem;
+}
+.pl-84 {
+  padding: 5.25rem;
+}
+.pl-86 {
+  padding: 5.375rem;
+}
+.pl-88 {
+  padding: 5.5rem;
+}
+.pl-90 {
+  padding: 5.625rem;
+}
+.pl-92 {
+  padding: 5.75rem;
+}
+.pl-94 {
+  padding: 5.875rem;
+}
+.pl-96 {
+  padding: 6rem;
+}
+.pl-98 {
+  padding: 6.125rem;
+}
+.pl-100 {
+  padding: 6.25rem;
+}
+
+/* padding Top classes with increments of 0.125rem (2px) */
+.pt-2 {
+  padding-top: 0.125rem;
+}
+.pt-4 {
+  padding-top: 0.25rem;
+}
+.pt-6 {
+  padding-top: 0.375rem;
+}
+.pt-8 {
+  padding-top: 0.5rem;
+}
+.pt-10 {
+  padding-top: 0.625rem;
+}
+.pt-12 {
+  padding-top: 0.75rem;
+}
+.pt-14 {
+  padding-top: 0.875rem;
+}
+.pt-16 {
+  padding-top: 1rem;
+}
+.pt-18 {
+  padding-top: 1.125rem;
+}
+.pt-20 {
+  padding-top: 1.25rem;
+}
+.pt-22 {
+  padding-top: 1.375rem;
+}
+.pt-24 {
+  padding-top: 1.5rem;
+}
+.pt-26 {
+  padding-top: 1.625rem;
+}
+.pt-28 {
+  padding-top: 1.75rem;
+}
+.pt-30 {
+  padding-top: 1.875rem;
+}
+.pt-32 {
+  padding-top: 2rem;
+}
+.pt-34 {
+  padding-top: 2.125rem;
+}
+.pt-36 {
+  padding-top: 2.25rem;
+}
+.pt-38 {
+  padding-top: 2.375rem;
+}
+.pt-40 {
+  padding-top: 2.5rem;
+}
+.pt-42 {
+  padding-top: 2.625rem;
+}
+.pt-44 {
+  padding-top: 2.75rem;
+}
+.pt-46 {
+  padding-top: 2.875rem;
+}
+.pt-48 {
+  padding-top: 3rem;
+}
+.pt-50 {
+  padding-top: 3.125rem;
+}
+.pt-52 {
+  padding-top: 3.25rem;
+}
+.pt-54 {
+  padding-top: 3.375rem;
+}
+.pt-56 {
+  padding-top: 3.5rem;
+}
+.pt-58 {
+  padding-top: 3.625rem;
+}
+.pt-60 {
+  padding-top: 3.75rem;
+}
+.pt-62 {
+  padding-top: 3.875rem;
+}
+.pt-64 {
+  padding-top: 4rem;
+}
+.pt-66 {
+  padding-top: 4.125rem;
+}
+.pt-68 {
+  padding-top: 4.25rem;
+}
+.pt-70 {
+  padding-top: 4.375rem;
+}
+.pt-72 {
+  padding-top: 4.5rem;
+}
+.pt-74 {
+  padding-top: 4.625rem;
+}
+.pt-76 {
+  padding-top: 4.75rem;
+}
+.pt-78 {
+  padding-top: 4.875rem;
+}
+.pt-80 {
+  padding-top: 5rem;
+}
+.pt-82 {
+  padding-top: 5.125rem;
+}
+.pt-84 {
+  padding-top: 5.25rem;
+}
+.pt-86 {
+  padding-top: 5.375rem;
+}
+.pt-88 {
+  padding-top: 5.5rem;
+}
+.pt-90 {
+  padding-top: 5.625rem;
+}
+.pt-92 {
+  padding-top: 5.75rem;
+}
+.pt-94 {
+  padding-top: 5.875rem;
+}
+.pt-96 {
+  padding-top: 6rem;
+}
+.pt-98 {
+  padding-top: 6.125rem;
+}
+.pt-100 {
+  padding-top: 6.25rem;
+}
+
+/* padding Bottom classes with increments of 0.125rem (2px) */
+.pb-2 {
+  padding-bottom: 0.125rem;
+}
+.pb-4 {
+  padding-bottom: 0.25rem;
+}
+.pb-6 {
+  padding-bottom: 0.375rem;
+}
+.pb-8 {
+  padding-bottom: 0.5rem;
+}
+.pb-10 {
+  padding-bottom: 0.625rem;
+}
+.pb-12 {
+  padding-bottom: 0.75rem;
+}
+.pb-14 {
+  padding-bottom: 0.875rem;
+}
+.pb-16 {
+  padding-bottom: 1rem;
+}
+.pb-18 {
+  padding-bottom: 1.125rem;
+}
+.pb-20 {
+  padding-bottom: 1.25rem;
+}
+.pb-22 {
+  padding-bottom: 1.375rem;
+}
+.pb-24 {
+  padding-bottom: 1.5rem;
+}
+.pb-26 {
+  padding-bottom: 1.625rem;
+}
+.pb-28 {
+  padding-bottom: 1.75rem;
+}
+.pb-30 {
+  padding-bottom: 1.875rem;
+}
+.pb-32 {
+  padding-bottom: 2rem;
+}
+.pb-34 {
+  padding-bottom: 2.125rem;
+}
+.pb-36 {
+  padding-bottom: 2.25rem;
+}
+.pb-38 {
+  padding-bottom: 2.375rem;
+}
+.pb-40 {
+  padding-bottom: 2.5rem;
+}
+.pb-42 {
+  padding-bottom: 2.625rem;
+}
+.pb-44 {
+  padding-bottom: 2.75rem;
+}
+.pb-46 {
+  padding-bottom: 2.875rem;
+}
+.pb-48 {
+  padding-bottom: 3rem;
+}
+.pb-50 {
+  padding-bottom: 3.125rem;
+}
+.pb-52 {
+  padding-bottom: 3.25rem;
+}
+.pb-54 {
+  padding-bottom: 3.375rem;
+}
+.pb-56 {
+  padding-bottom: 3.5rem;
+}
+.pb-58 {
+  padding-bottom: 3.625rem;
+}
+.pb-60 {
+  padding-bottom: 3.75rem;
+}
+.pb-62 {
+  padding-bottom: 3.875rem;
+}
+.pb-64 {
+  padding-bottom: 4rem;
+}
+.pb-66 {
+  padding-bottom: 4.125rem;
+}
+.pb-68 {
+  padding-bottom: 4.25rem;
+}
+.pb-70 {
+  padding-bottom: 4.375rem;
+}
+.pb-72 {
+  padding-bottom: 4.5rem;
+}
+.pb-74 {
+  padding-bottom: 4.625rem;
+}
+.pb-76 {
+  padding-bottom: 4.75rem;
+}
+.pb-78 {
+  padding-bottom: 4.875rem;
+}
+.pb-80 {
+  padding-bottom: 5rem;
+}
+.pb-82 {
+  padding-bottom: 5.125rem;
+}
+.pb-84 {
+  padding-bottom: 5.25rem;
+}
+.pb-86 {
+  padding-bottom: 5.375rem;
+}
+.pb-88 {
+  padding-bottom: 5.5rem;
+}
+.pb-90 {
+  padding-bottom: 5.625rem;
+}
+.pb-92 {
+  padding-bottom: 5.75rem;
+}
+.pb-94 {
+  padding-bottom: 5.875rem;
+}
+.pb-96 {
+  padding-bottom: 6rem;
+}
+.pb-98 {
+  padding-bottom: 6.125rem;
+}
+.pb-100 {
+  padding-bottom: 6.25rem;
+}
+
+/* padding Right classes with increments of 0.125rem (2px) */
+.pr-2 {
+  padding-right: 0.125rem;
+}
+.pr-4 {
+  padding-right: 0.25rem;
+}
+.pr-6 {
+  padding-right: 0.375rem;
+}
+.pr-8 {
+  padding-right: 0.5rem;
+}
+.pr-10 {
+  padding-right: 0.625rem;
+}
+.pr-12 {
+  padding-right: 0.75rem;
+}
+.pr-14 {
+  padding-right: 0.875rem;
+}
+.pr-16 {
+  padding-right: 1rem;
+}
+.pr-18 {
+  padding-right: 1.125rem;
+}
+.pr-20 {
+  padding-right: 1.25rem;
+}
+.pr-22 {
+  padding-right: 1.375rem;
+}
+.pr-24 {
+  padding-right: 1.5rem;
+}
+.pr-26 {
+  padding-right: 1.625rem;
+}
+.pr-28 {
+  padding-right: 1.75rem;
+}
+.pr-30 {
+  padding-right: 1.875rem;
+}
+.pr-32 {
+  padding-right: 2rem;
+}
+.pr-34 {
+  padding-right: 2.125rem;
+}
+.pr-36 {
+  padding-right: 2.25rem;
+}
+.pr-38 {
+  padding-right: 2.375rem;
+}
+.pr-40 {
+  padding-right: 2.5rem;
+}
+.pr-42 {
+  padding-right: 2.625rem;
+}
+.pr-44 {
+  padding-right: 2.75rem;
+}
+.pr-46 {
+  padding-right: 2.875rem;
+}
+.pr-48 {
+  padding-right: 3rem;
+}
+.pr-50 {
+  padding-right: 3.125rem;
+}
+.pr-52 {
+  padding-right: 3.25rem;
+}
+.pr-54 {
+  padding-right: 3.375rem;
+}
+.pr-56 {
+  padding-right: 3.5rem;
+}
+.pr-58 {
+  padding-right: 3.625rem;
+}
+.pr-60 {
+  padding-right: 3.75rem;
+}
+.pr-62 {
+  padding-right: 3.875rem;
+}
+.pr-64 {
+  padding-right: 4rem;
+}
+.pr-66 {
+  padding-right: 4.125rem;
+}
+.pr-68 {
+  padding-right: 4.25rem;
+}
+.pr-70 {
+  padding-right: 4.375rem;
+}
+.pr-72 {
+  padding-right: 4.5rem;
+}
+.pr-74 {
+  padding-right: 4.625rem;
+}
+.pr-76 {
+  padding-right: 4.75rem;
+}
+.pr-78 {
+  padding-right: 4.875rem;
+}
+.pr-80 {
+  padding-right: 5rem;
+}
+.pr-82 {
+  padding-right: 5.125rem;
+}
+.pr-84 {
+  padding-right: 5.25rem;
+}
+.pr-86 {
+  padding-right: 5.375rem;
+}
+.pr-88 {
+  padding-right: 5.5rem;
+}
+.pr-90 {
+  padding-right: 5.625rem;
+}
+.pr-92 {
+  padding-right: 5.75rem;
+}
+.pr-94 {
+  padding-right: 5.875rem;
+}
+.pr-96 {
+  padding-right: 6rem;
+}
+.pr-98 {
+  padding-right: 6.125rem;
+}
+.pr-100 {
+  padding-right: 6.25rem;
+}

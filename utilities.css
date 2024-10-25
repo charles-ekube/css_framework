@@ -1,0 +1,32 @@
+/* utilities.css */
+.m-1 {
+  margin: 0.5rem;
+}
+.m-2 {
+  margin: 1rem;
+}
+.p-1 {
+  padding: 0.5rem;
+}
+.p-2 {
+  padding: 1rem;
+}
+
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+
+.bg-primary {
+  background-color: #007bff;
+  color: #fff;
+}
+.bg-secondary {
+  background-color: #6c757d;
+  color: #fff;
+}
